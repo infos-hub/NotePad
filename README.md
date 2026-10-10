@@ -1,2 +1,2 @@
 # NotePad
-Simple, regular desktop notepad program for Windows, Linux, Mac
+Simple, regular desktop notepad program for Windows, Linux, and Mac
