@@ -1,5 +1,5 @@
 # NotePad
-Java NotePad for Windows, Linux, and Mac.
+Java NotePad supports Windows, Linux, and Mac.
 
 # License
-This is open source and under the license.
+This project is open source and distributed under the license.
