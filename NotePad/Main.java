@@ -13,9 +13,6 @@ public class Main {
         ImageIcon Icon = new ImageIcon(Main.class.getResource("/Logo/Icon.png"));
         win.setIconImage(Icon.getImage());
         
-        //----------------- Background ----------------//
-        win.getContentPane().setBackground(Color.WHITE);
-        
         //---------- Position ---------//
         win.setLocationRelativeTo(null);
         
