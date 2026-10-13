@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 import java.awt.Color;
 
-public class Main {
+public class Installation {
     public static void main(String[] args) {
         //-------- Named window ----------//
         JFrame win = new JFrame("NotePad");
